@@ -1,5 +1,5 @@
 # Message for the Viewers - 
-f you're unable to access the application, it's because the database I chose automatically shuts down after 1 hour. You'll need to manually restart it. This was a rookie mistake on my part as I'm still new to Python-based environments. I'm learning this so I can work on projects involving AI and ML in the future.
+If you're unable to access the application, it's because the database I chose automatically shuts down after 1 hour. You'll need to manually restart it. This was a rookie mistake on my part as I'm still new to Python-based environments. I'm learning this so I can work on projects involving AI and ML in the future.
 Thank you for your understanding and for visiting my GitHub! Be sure to check out my other projects as well!
 
 # Django Notes Application

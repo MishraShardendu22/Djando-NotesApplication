@@ -1,3 +1,6 @@
+# Message for the Viewers - 
+**If you're not able to access the application it's because the database I choose turn of after 1 hour , and you have to manually switch it on . This was a rookie mistak I made because I am new to Python based enviorment and I am learning this so I can make projects based on AI and ML in future . Thank you for consideration and visitng my GitHub check out my Other Proejcts !! **
+
 # Django Notes Application
 
 ## Overview
